@@ -1,0 +1,8 @@
+{
+  "name": "EduLock",
+  "description": "A high-security, role-based cloud storage system for academic and organizational use, featuring HUD-style UI, AI-powered document analysis, and strict submission workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
